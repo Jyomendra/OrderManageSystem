@@ -55,7 +55,7 @@ A Spring Boot based e-commerce order management system with key features includi
 1. Clone the repository
 2. Set your Stripe API key in application.properties:
    ```
-   stripe.api.key=sk_test_51R2SHBKYY47Rsh8Vls7aCDSLUkwoxM8kkGlUquqhsPDEbmCmiN4JQXRlTeJap05aAjHnkUh4zeyav6KgDhiRtYPa00qjAtlFsH
+   stripe.api.key=add your api key here
    ```
 3. Build the project:
    ```
